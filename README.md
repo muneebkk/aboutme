@@ -5,13 +5,13 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Game+Developer+%F0%9F%8E%AE;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Game+Developer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Profile Views Counter with Animation -->
+<!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muneeb&label=Profile%20Views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Muneeb?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers" />
@@ -33,14 +33,16 @@
   
   <div align="left" style="width: 50%;">
     
-🎓 **Computer Science @ Simon Fraser University**<br/>
-📊 **Minor in Statistics**<br/>
-🔥 **2nd Year Student with Big Dreams**<br/>
-💡 **Building Tech That Actually Matters**<br/>
-🚀 **Always Learning, Always Building**<br/>
-🎯 **Focused on Fullstack + AI/ML**<br/>
-🏆 **Hackathon Winner (JourneyHacks)**<br/>
-📍 **Vancouver, BC**<br/>
+**Computer Science @ Simon Fraser University** | **Minor in Statistics**<br/>
+Second-year student focused on understanding systems from the ground up<br/>
+I like building things that work — frontend, backend, AI, and everything in between<br/>
+Following the Kaizen mindset: continuous improvement, 1% better every day<br/>
+I care about writing clean, maintainable code and solving real problems<br/>
+Learning by doing, not rushing mastery<br/>
+Currently exploring full-stack development and AI/ML applications<br/>
+
+**Connect:**
+📧 [mmk28@sfu.ca](mailto:mmk28@sfu.ca) | 💼 [LinkedIn](https://linkedin.com/in/muneeb-kamran-0a345722a) | 🌐 [Portfolio](https://muneebk.github.io)
 
   </div>
 </div>
@@ -51,14 +53,14 @@
 <div align="center">
   <h2>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-    Tech Arsenal
+    Tech Stack
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
   </h2>
 </div>
 
 <!-- Programming Languages -->
 <div align="center">
-  <h3>💻 Languages</h3>
+  <h3>Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -74,7 +76,7 @@
 
 <!-- Frameworks & Libraries -->
 <div align="center">
-  <h3>🚀 Frameworks & Libraries</h3>
+  <h3>Frameworks & Libraries</h3>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -88,7 +90,7 @@
 
 <!-- AI/ML & Data -->
 <div align="center">
-  <h3>🤖 AI/ML & Data Science</h3>
+  <h3>AI/ML & Data Science</h3>
   <p>
     <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
     <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -100,7 +102,7 @@
 
 <!-- Game Development -->
 <div align="center">
-  <h3>🎮 Game Development</h3>
+  <h3>Game Development</h3>
   <p>
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
     <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
@@ -109,7 +111,7 @@
 
 <!-- Tools & Platforms -->
 <div align="center">
-  <h3>🛠️ Tools & Platforms</h3>
+  <h3>Tools & Platforms</h3>
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -138,7 +140,7 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🔥 HeatSpace</h3>
+        <h3 align="center">HeatSpace</h3>
         <div align="center">  
           <a href="https://github.com/Muneeb/heatspace" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb&repo=heatspace&theme=tokyonight&hide_border=true&border_radius=10" alt="HeatSpace" />
@@ -149,6 +151,7 @@
             <img src="https://img.shields.io/badge/🏆-JourneyHacks%20Winner-gold?style=for-the-badge" />
           </p>
           <p><strong>Smart heat optimization system with 3D simulation</strong></p>
+          <p>Analyzes floor plans to simulate air distribution and detect cold spots</p>
           <p>
             <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
             <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
@@ -157,14 +160,15 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🧳 TripWise</h3>
+        <h3 align="center">TripWise</h3>
         <div align="center">
           <a href="https://github.com/Muneeb/tripwise" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb&repo=tripwise&theme=tokyonight&hide_border=true&border_radius=10" alt="TripWise" />
           </a>
           <br>
           <br>
-          <p><strong>AI-powered travel planner with live hotel data</strong></p>
+          <p><strong>Full-stack travel planner with live hotel data</strong></p>
+          <p>Integrates Skyscanner API for real-time hotel search and reviews</p>
           <p>
             <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
             <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -175,14 +179,15 @@
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">🏆 CaseComp</h3>
+        <h3 align="center">CaseComp</h3>
         <div align="center">
           <a href="https://github.com/Muneeb/casecomp" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb&repo=casecomp&theme=tokyonight&hide_border=true&border_radius=10" alt="CaseComp" />
           </a>
           <br>
           <br>
-          <p><strong>Devpost-style platform for case competitions</strong></p>
+          <p><strong>Platform for discovering and hosting case competitions</strong></p>
+          <p>University-wide hub for case competition discovery and management</p>
           <p>
             <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
             <img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=white" />
@@ -191,15 +196,15 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🎮 More Projects</h3>
+        <h3 align="center">More Projects</h3>
         <div align="center">
           <a href="https://github.com/Muneeb?tab=repositories" target="_blank">
             <img src="https://img.shields.io/badge/View%20All%20Projects-100000?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <br>
           <br>
-          <p><strong>Explore my complete portfolio</strong></p>
-          <p>Game dev, AI tools, web apps & more!</p>
+          <p><strong>Explore the complete portfolio</strong></p>
+          <p>Full-stack applications, AI tools, game development projects</p>
         </div>
       </td>
     </tr>
@@ -213,7 +218,7 @@
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-    Experience Journey
+    Experience
   </h2>
 </div>
 
@@ -221,26 +226,26 @@
   <table>
     <tr>
       <td>
-        <h3>💻 Software Developer Intern</h3>
+        <h3>Software Developer Intern</h3>
         <p><strong>CJSF Radio (DJLand Migration)</strong> | May 2025 - Present</p>
-        <p>🔧 Migrating legacy DJLand software to modern architecture</p>
-        <p>🎨 Frontend improvements & UI component refinement</p>
+        <p>Migrating legacy DJLand software to modern architecture</p>
+        <p>Frontend improvements and UI component refinement</p>
       </td>
     </tr>
     <tr>
       <td>
-        <h3>🧑‍🏫 Computer Science Peer Tutor</h3>
+        <h3>Computer Science Peer Tutor</h3>
         <p><strong>Simon Fraser University</strong> | May 2024 - Present</p>
-        <p>📚 Tutoring CMPT 125, 210, 225, 295, MACM 101</p>
-        <p>🐛 Debugging sessions & code review guidance</p>
+        <p>Tutoring CMPT 125, 210, 225, 295, MACM 101</p>
+        <p>Debugging sessions and code review guidance</p>
       </td>
     </tr>
     <tr>
       <td>
-        <h3>🎮 Backend Game Developer</h3>
+        <h3>Backend Game Developer</h3>
         <p><strong>Horizon Expeditions</strong> | Oct 2024 - Jan 2025</p>
-        <p>🎒 Global inventory system development</p>
-        <p>⚡ Unity & C# performance optimization</p>
+        <p>Global inventory system development</p>
+        <p>Unity & C# performance optimization</p>
       </td>
     </tr>
   </table>
@@ -284,7 +289,7 @@
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-    Let's Connect & Build Something Amazing!
+    Let's Connect
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
   </h2>
 </div>
@@ -293,7 +298,7 @@
   <a href="mailto:mmk28@sfu.ca">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/Muneeb">
+  <a href="https://linkedin.com/in/muneeb-kamran-0a345722a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://muneebk.github.io">
@@ -304,19 +309,12 @@
   </a>
 </div>
 
-<!-- Fun Facts -->
+<!-- Current Focus -->
 <div align="center">
-  <h3>⚡ Fun Facts</h3>
-  <p>🎯 I debug code faster than I debug my life</p>
-  <p>☕ Coffee-to-code ratio: 1:∞</p>
-  <p>🌙 Night owl developer (best code happens after midnight)</p>
-  <p>🎮 When not coding, I'm probably gaming or building games</p>
-  <p>📚 Always learning something new (currently diving deep into AI/ML)</p>
-</div>
-
-<!-- Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <h3>Current Focus</h3>
+  <p>Kaizen mindset: continuous improvement, 1% better every day</p>
+  <p>Learning by doing, building systems that solve real problems</p>
+  <p>Exploring the intersection of full-stack development and AI/ML</p>
 </div>
 
 <!-- Snake Animation -->
@@ -330,8 +328,8 @@
 </div>
 
 <div align="center">
-  <h3>💫 "Code is poetry written in logic" 💫</h3>
-  <p><em>Building the future, one commit at a time</em></p>
+  <h3>Maintained by Muneeb Kamran</h3>
+  <p><em>Always improving — one line of code at a time</em></p>
   
   <!-- Visitor Counter -->
   <img src="https://profile-counter.glitch.me/Muneeb/count.svg" alt="Visitor Count" />
@@ -340,15 +338,5 @@
 ---
 
 <div align="center">
-  <p>⭐ From <a href="https://github.com/Muneeb">Muneeb Kamran</a> with ❤️</p>
-  <p><em>If you like my work, consider giving it a ⭐!</em></p>
+  <p>⭐ From <a href="https://github.com/Muneeb">Muneeb Kamran</a></p>
 </div>
-\`\`\`
-
-Now just copy this entire content and paste it into your GitHub profile README.md file! Make sure to:
-
-1. **Replace "Muneeb" with your actual GitHub username** in all the GitHub stats URLs
-2. **Update the project repository names** to match your actual repo names
-3. **Update the social links** with your actual LinkedIn, portfolio, etc.
-
-The file should work perfectly now with all the animations and interactive elements! 🚀
