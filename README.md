@@ -19,7 +19,7 @@
 
 </div>
 
-<!-- About Me Section with Gradient Background -->
+<!-- About Me Section -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -29,23 +29,23 @@
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-        
-        🎓 **Computer Science @ Simon Fraser University**<br/>
-        📊 **Minor in Statistics**<br/>
-        🔥 **2nd Year Student with Big Dreams**<br/>
-        💡 **Building Tech That Actually Matters**<br/>
-        🚀 **Always Learning, Always Building**<br/>
-        🎯 **Focused on Fullstack + AI/ML**<br/>
-        🏆 **Hackathon Winner (JourneyHacks)**<br/>
-        📍 **Vancouver, BC**<br/>
-      </td>
-    </tr>
-  </table>
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  
+  <div align="left" style="width: 50%;">
+    
+🎓 **Computer Science @ Simon Fraser University**<br/>
+📊 **Minor in Statistics**<br/>
+🔥 **2nd Year Student with Big Dreams**<br/>
+💡 **Building Tech That Actually Matters**<br/>
+🚀 **Always Learning, Always Building**<br/>
+🎯 **Focused on Fullstack + AI/ML**<br/>
+🏆 **Hackathon Winner (JourneyHacks)**<br/>
+📍 **Vancouver, BC**<br/>
+
+  </div>
 </div>
+
+<br clear="both"/>
 
 <!-- Animated Skills Section -->
 <div align="center">
