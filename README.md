@@ -1,61 +1,49 @@
-# 👋 Hi, I'm Muneeb Kamran
+<div align="center">
 
-I'm a second-year Computer Science student at Simon Fraser University, also pursuing a minor in Statistics. I love building practical tech that solves real problems — whether that’s fullstack platforms, AI-powered tools, or interactive systems in game engines.
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muneeb%20Kamran&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-Right now, I’m focused on becoming a well-rounded developer by experimenting with different stacks, working with clubs/startups, and constantly learning from projects.
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Game+Developer+%F0%9F%8E%AE;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+</p>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🧠 What I'm Into
-- Fullstack Development (React, Node.js, Flask)
-- AI/ML & Computer Vision (OpenCV, NumPy)
-- Game Dev & Simulations (Unity, Unreal)
-- Building things that are actually useful for people
+<!-- Profile Views Counter with Animation -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muneeb&label=Profile%20Views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Muneeb?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers" />
+</p>
 
----
+</div>
 
-## 🛠 Tech Stack
-**Languages:** Python, JavaScript, C/C++, SQL, HTML/CSS  
-**Frameworks:** React, Node.js, Flask, Express, Vite, Next.js  
-**Libraries:** TailwindCSS, OpenCV, NumPy, pandas, Matplotlib  
-**Tools:** Git, GitHub, TravisCI, VS Code, Linux, Figma, PyCharm  
-**Engines:** Unity, Unreal Engine  
+<!-- About Me Section with Gradient Background -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    About Me
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  </h2>
+</div>
 
----
-
-## 📌 Featured Projects
-
-### 🔥 HeatSpace (🏆 JourneyHacks Winner)
-> Smart heat optimization system that analyzes 3D floor plans to simulate air distribution and detect cold spots.  
-**Stack:** Next.js, TailwindCSS, Flask, OpenCV, NumPy  
-[GitHub Repo](https://github.com/Muneebkk/HeatSpace) • [Demo](#)
-
----
-
-### 🧳 TripWise Travel Planner
-> A fullstack travel planner that uses live hotel data from Skyscanner API to help users search and plan trips.  
-**Stack:** React, TypeScript, Express.js, RapidAPI  
-[GitHub Repo](https://github.com/Muneebkk/TripWise) • [Demo](#)
-
----
-
-### 🏆 CaseComp — Case Competition Hub
-> Devpost-style platform for discovering and hosting university case competitions.  
-**Stack:** React, Vite, Supabase, TailwindCSS, Shadcn  
-[GitHub Repo](https://github.com/Muneebkk/CaseComp) • [Live](#)
-
----
-
-## 📚 Experience
-
-- 💻 Software Developer Intern @ CJSF (DJLand Migration)
-- 🧑‍🏫 Peer Tutor @ SFU (CMPT 125, 210, 225, 295, MACM 101)
-- 🎮 Backend Game Developer @ Horizon Expeditions
-
----
-
-## 🌐 Connect With Me
-📫 [Email](mailto:mmk28@sfu.ca) | [Portfolio](https://muneebk.github.io)  
-💼 [LinkedIn](https://linkedin.com/in/muneeb-kamran-0a345722a) | 🛠 [GitHub](https://github.com/Muneebkk)
-
----
+```html
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+        
+        🎓 **Computer Science @ Simon Fraser University**<br/>
+        📊 **Minor in Statistics**<br/>
+        🔥 **2nd Year Student with Big Dreams**<br/>
+        💡 **Building Tech That Actually Matters**<br/>
+        🚀 **Always Learning, Always Building**<br/>
+        🎯 **Focused on Fullstack + AI/ML**<br/>
+        🏆 **Hackathon Winner (JourneyHacks)**<br/>
+        📍 **Vancouver, BC**<br/>
+      </td>
+    </tr>
+  </table>
+</div>
